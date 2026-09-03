@@ -6,7 +6,7 @@ settings:
 
 overrides:
   '@types/ramda': 0.27.38
-  '@types/update-notifier': 5.0.0
+  '@types/update-notifier': 5.1.0
   ansi-colors: 4.1.1
   configstore: 5.0.1
   find-installed-packages: 2.1.6
@@ -45,8 +45,8 @@ importers:
         specifier: ^0.2.0
         version: 0.2.6
       '@types/update-notifier':
-        specifier: 5.0.0
-        version: 5.0.0
+        specifier: 5.1.0
+        version: 5.1.0
       '@vitest/coverage-v8':
         specifier: ^4.1.11
         version: 4.1.11(vitest@4.1.11)
@@ -2303,8 +2303,8 @@ packages:
   '@types/tmp@0.2.6':
     resolution: {integrity: sha512-chhaNf2oKHlRkDGt+tiKE2Z5aJ6qalm7Z9rlLdBwmOiAAf09YQvvoLXjWK4HWPF1xU/fqvMgfNfpVoBscA/tKA==}
 
-  '@types/update-notifier@5.0.0':
-    resolution: {integrity: sha512-8CdLLv5ytMXEWfjSmWiuuZEffJJAsfNxSQbShZTmZD5picoci18VV1YqhKNTzlZvNCzt5WsnDQLyPSsj6xGuug==}
+  '@types/update-notifier@5.1.0':
+    resolution: {integrity: sha512-aGY5pH1Q/DcToKXl4MCj1c0uDUB+zSVFDRCI7Q7js5sguzBTqJV/5kJA2awofbtWYF3xnon1TYdZYnFditRPtQ==}
 
   '@types/yargs-parser@21.0.3':
     resolution: {integrity: sha512-I4q9QU9MQv4oEOz4tAHJtNz1cwuLxn2F3xcc2iV5WdqLPpUnj30aUuxt1mAxYTG+oe8CZMV/+6rU4S4gRDzqtQ==}
@@ -11122,7 +11122,7 @@ snapshots:
 
   '@types/tmp@0.2.6': {}
 
-  '@types/update-notifier@5.0.0':
+  '@types/update-notifier@5.1.0':
     dependencies:
       '@types/configstore': 6.0.2
       boxen: 4.2.0
